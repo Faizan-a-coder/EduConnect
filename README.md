@@ -57,7 +57,7 @@ EduConnect is a full-stack MERN EdTech platform where anyone can come and learn 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Mudassar123khan/EduConnect
+   git clone https://github.com/Faizan-a-coder/EduConnect
    cd EduConnect
 2.Install frontend dependencies:
   ```bash
@@ -106,8 +106,8 @@ EduConnect is a full-stack MERN EdTech platform where anyone can come and learn 
   This project is licensed under the MIT License.
 
 ## Author
-Mohd Mudassir Khan
+Faizan Khan
 Hotel & Property Booking Platform Developer
-📧 12mudassarkhan@gmail.com
+📧 khanfaizan7256@gmail.com
 
 # ⭐ If you like this project, consider giving it a star on GitHub!
